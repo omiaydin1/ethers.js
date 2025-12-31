@@ -135,6 +135,11 @@ packages designed to further enhance the functionality and experience.
 
 License
 -------
+## Base Network Support
+
+ethers.js can be used to interact with smart contracts deployed on the Base network.
+Its Ethereum-compatible JSON-RPC interface makes Base a seamless option
+for scripting, testing, and onchain interactions.
 
 MIT License (including **all** dependencies).
 
